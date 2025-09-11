@@ -239,7 +239,7 @@ const styles = StyleSheet.create({
     },
   },
   urgencyText: {
-    color: '#fff',
+    color: 'orange',
     fontSize: typography.fontSize.xs,
     fontWeight: typography.fontWeight.bold,
     letterSpacing: 0.3,
